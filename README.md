@@ -1,1 +1,3 @@
 # Shopping-Cart
+
+Strapi, postman
